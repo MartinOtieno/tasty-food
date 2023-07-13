@@ -48,14 +48,38 @@
   background-color: #f8B15E;
 }
 
+/* body css */
+.container .tasty-foods{
+  /* margin: 40px 0 0 80px; */
+  margin-top: 40px;
+  margin-left: 80px;
+}
+.container p{
+  margin-bottom: 40px;
+  margin-left: 100px;
+}
+.container button{
+  margin-top: 40px;
+  width: 100px;
+  height: 45px;
+  margin-left: 50px;
+  border-radius: 15px;
+  background:#f8B15E ;
+  border: none;
 
-
-
+}
+.description-image img{
+  width: 17vw;
+  height: 15vw;
+}
 /* FOOTER CSS */
 
 footer {
   padding: 25px 100px;
   width: 100%;
+  height: auto;
+  margin-top: auto;
+  margin-bottom: 00px;
   position: absolute;
   bottom: 0;
   background-color: black;
